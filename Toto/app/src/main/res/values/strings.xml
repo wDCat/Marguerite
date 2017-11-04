@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Toto</string>
+    <string name="toto">--JUST A DEMO--\n--VERY UNSTABLE--\nIf you still want to user this server,change \'base_url\' to http://127.0.0.1:8837</string>
+</resources>
